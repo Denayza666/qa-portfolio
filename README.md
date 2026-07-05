@@ -6,11 +6,11 @@
 
 &nbsp;
 
-Илья Абрамов · Москва / удалённо / гибрид · 24 года
+Илья Абрамов · Москва / удалённо / гибрид · 30 лет
 
 &nbsp;
 
-[Telegram](https://t.me/ilia_abramov) · [E-mail](mailto:ilia.abramov.qa@gmail.com)
+[Telegram](https://t.me/ilia_abramov) · [E-mail](mailto:denayza96@gmail.com)
 
 &nbsp;
 
@@ -78,6 +78,8 @@
 &nbsp;
 
 - **IT PUNK** — курс по ручному тестированию
+- **Артём Русов** — базовый курс по тестированию ПО
+- **Артём Русов** — тестирование API (Postman)
 
 &nbsp;
 
