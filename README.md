@@ -6,11 +6,7 @@
 
 &nbsp;
 
-Илья Абрамов · Москва / удалённо / гибрид · 30 лет
-
-&nbsp;
-
-[Telegram](https://t.me/ilia_abramov) · [E-mail](mailto:denayza96@gmail.com)
+[Telegram](https://t.me/bironix) · [E-mail](mailto:denayza96@gmail.com)
 
 &nbsp;
 
