@@ -1,4 +1,4 @@
-[README_BUGS_MOBILE.md](https://github.com/user-attachments/files/29703210/README_BUGS_MOBILE.md)# Баг-репорты — ProjectCrimson (Unity, Android)
+Баг-репорты — ProjectCrimson (Unity, Android)
 
 Папка содержит баг-репорты, найденные в ходе тестирования мобильного/игрового проекта ProjectCrimson (Unity, билды под Android).
 
