@@ -1,4 +1,3 @@
-[Bug-1_mobile.md](https://github.com/user-attachments/files/29703225/Bug-1_mobile.md)
 **Проект:** ProjectCrimson (Unity, Android)
 
 **Тестировщик:** Ilia Abramov
